@@ -27,3 +27,7 @@ For purposes of automatic identification, this license can be considered identic
 ```
 
 If a unique short-code is needed, ```WTFGFY``` is recommended.
+
+***
+
+This document is dedicated to the public domain.
