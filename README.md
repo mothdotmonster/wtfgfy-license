@@ -1,4 +1,4 @@
-# The WTF+GFY Public License
+# ![icon](img/gfy-64x.png) The WTF+GFY Public License
 This is a revolutionary new license, for those who enjoy the vulgarity and freedom of WTFPL but also want a chance of having things stand up in court.
 ```
 Copyright <YEAR> <COPYRIGHT HOLDER>
@@ -21,13 +21,28 @@ Copyright <YEAR> <COPYRIGHT HOLDER>
     dealings in the Software.
 ```
 
-For purposes of automatic identification, this license can be considered identical to MIT-0, other than formatting and ommitable text.
-```
-// SPDX-License-Identifier: MIT-0
-```
+> [!NOTE]
+>For purposes of automatic identification, this license can be considered identical to MIT-0, other than formatting and ommitable text.
+>```
+>// SPDX-License-Identifier: MIT-0
+>```
+>If a unique short-code is needed, ```WTFGFY``` is recommended.
 
-If a unique short-code is needed, ```WTFGFY``` is recommended.
+## Icons
+64x64
+| .png | .svg |
+| - | - |
+| ![64x png](img/gfy-64x.png) | ![64x svg](img/gfy-64x.svg) |
+
+88x31
+| .png | .svg |
+| - | - |
+| ![88x31 png](img/gfy-88x31.png) | ![88x31 svg](img/gfy-88x31.svg) |
+
+80x15
+| .png | .svg |
+| - | - |
+| ![80x15 png](img/gfy-80x15.png) | ![80x15 svg](img/gfy-80x15.svg) |
 
 ***
-
-This document is dedicated to the public domain.
+*This document is dedicated to the public domain.*
