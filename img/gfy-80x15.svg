@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg:svg
+   width="80"
+   height="15"
+   id="svg2279"
+   sodipodi:version="0.32"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   version="1.0"
+   sodipodi:docname="gfy-80x15.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="cursor: default;"
+   inkscape:export-filename="gfy-80x15.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <script />
+  <svg:defs
+     id="defs2281">
+    <svg:clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <svg:rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.922435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1"
+         width="20.614058"
+         height="12.483703"
+         x="171.99832"
+         y="239.1203" />
+    </svg:clipPath>
+  </svg:defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.313708"
+     inkscape:cx="41.365747"
+     inkscape:cy="3.0052038"
+     inkscape:document-units="px"
+     inkscape:current-layer="BY"
+     width="80px"
+     height="15px"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <svg:metadata
+     id="metadata2284">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </svg:metadata>
+  <svg:g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <svg:g
+       id="BY"
+       transform="matrix(0.9875019,0,0,0.9333518,-323.90064,-271.87688)"
+       style="display:inline">
+      <svg:g
+         transform="translate(158,54)"
+         id="g3693">
+        <svg:rect
+           y="237.86218"
+           x="170.5"
+           height="15"
+           width="80"
+           id="rect3695"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.04162;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <svg:rect
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.922435;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect3697"
+           width="77"
+           height="12"
+           x="172"
+           y="239.36218" />
+        <svg:path
+           sodipodi:nodetypes="cccscc"
+           id="path3699"
+           d="m 171.99996,239.37505 v 12 h 20.33478 c 1.30865,-1.75031 2.19178,-3.78448 2.19178,-6 0,-2.20074 -0.86793,-4.25715 -2.16053,-6 z"
+           style="fill:#abb1aa;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.469136" />
+        <svg:g
+           clip-path="url(#clipPath1)"
+           transform="matrix(0.9612533,0,0,0.9612533,6.8341566,9.5069994)"
+           id="g3701">
+          <svg:g
+             id="g1"
+             transform="matrix(0.25227547,0,0,0.26123713,173.55692,237.87986)">
+            <svg:g
+               id="g3"
+               inkscape:label="gfy">
+              <svg:g
+                 id="g2">
+	<svg:circle
+   fill="#ffffff"
+   cx="37.785"
+   cy="28.500999"
+   r="28.836"
+   id="circle1" />
+
+	<svg:path
+   d="m 37.441,-3.5 c 8.951,0 16.572,3.125 22.857,9.372 3.008,3.009 5.295,6.448 6.857,10.314 1.561,3.867 2.344,7.971 2.344,12.314 0,4.381 -0.773,8.486 -2.314,12.313 -1.543,3.828 -3.82,7.21 -6.828,10.143 -3.123,3.085 -6.666,5.448 -10.629,7.086 -3.961,1.638 -8.057,2.457 -12.285,2.457 -4.228,0 -8.276,-0.808 -12.143,-2.429 C 21.434,56.452 17.967,54.109 14.9,51.043 11.833,47.977 9.5,44.519 7.9,40.671 6.3,36.823 5.5,32.767 5.5,28.5 5.5,24.271 6.309,20.205 7.928,16.3 9.547,12.395 11.9,8.9 14.985,5.814 21.08,-0.394 28.565,-3.5 37.441,-3.5 Z m 0.116,5.772 c -7.314,0 -13.467,2.553 -18.458,7.657 -2.515,2.553 -4.448,5.419 -5.8,8.6 -1.354,3.181 -2.029,6.505 -2.029,9.972 0,3.429 0.675,6.734 2.029,9.913 1.353,3.183 3.285,6.021 5.8,8.516 2.514,2.496 5.351,4.399 8.515,5.715 3.161,1.314 6.476,1.971 9.943,1.971 3.428,0 6.75,-0.665 9.973,-1.999 3.219,-1.335 6.121,-3.257 8.713,-5.771 4.99,-4.876 7.484,-10.99 7.484,-18.344 0,-3.543 -0.648,-6.895 -1.943,-10.057 C 60.491,15.283 58.604,12.465 56.13,9.987 50.984,4.844 44.795,2.272 37.557,2.272 Z"
+   id="path1"
+   style="display:inline"
+   sodipodi:nodetypes="sccscccscsssscssccscccsccsccs" />
+
+</svg:g>
+              <svg:g
+                 id="g1-5"
+                 transform="matrix(1.5705969,0,0,1.425951,17.425181,11.219366)">
+                <svg:path
+                   class="cls-1"
+                   d="m 7.1723314,22.590688 v -2.575916 c -1.3318328,0 -2.6636655,-1.331833 -2.6636655,-2.663665 v -5.327332 c 0,-1.331833 1.3318328,-2.6636647 2.6636655,-2.6636647 h 2.6636654"
+                   id="path1-6"
+                   style="fill:none;stroke:#020202;stroke-width:2.66367;stroke-miterlimit:10;stroke-dasharray:none"
+                   sodipodi:nodetypes="cccccc" />
+                <svg:path
+                   class="cls-1"
+                   d="M 9.8359968,14.687441 V 2.7009468 c 0,-1.3318328 1.3318332,-2.66366547 2.6636652,-2.66366547 1.331833,0 2.663666,1.33183267 2.663666,2.66366547 v 6.6591635 h 2.663665 c 1.331833,0 2.663665,1.3318327 2.663665,2.6636657 v 5.327331 c 1e-6,1.331832 -1.331832,2.663665 -2.663665,2.663665 v 2.663665"
+                   id="path3"
+                   style="fill:none;stroke:#020202;stroke-width:2.66367;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
+                   sodipodi:nodetypes="cczccccscc" />
+              </svg:g>
+            </svg:g>
+          </svg:g>
+        </svg:g>
+      </svg:g>
+      <svg:text
+         xml:space="preserve"
+         style="font-size:7.29132px;line-height:1;font-family:'Noto Emoji';-inkscape-font-specification:'Noto Emoji';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;fill:#000000;stroke-width:4.16647;stroke-linecap:round;stroke-miterlimit:100"
+         x="201.94397"
+         y="241.10939"
+         id="text1"
+         transform="matrix(0.97219578,0,0,1.0285994,158,54.000003)"><svg:tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.29132px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Ultra-Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:4.16647"
+           x="0"
+           y="0">WTF+GFY</svg:tspan></svg:text>
+    </svg:g>
+  </svg:g>
+</svg:svg>
