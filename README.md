@@ -30,19 +30,19 @@ Copyright <YEAR> <COPYRIGHT HOLDER>
 
 ## Icons
 64x64
-| .png | .svg |
-| - | - |
-| ![64x png](img/gfy-64x.png) | ![64x svg](img/gfy-64x.svg) |
+| .png | 8x | .svg |
+| - | - | - |
+| ![64x png](img/gfy-64x.png) | <img src="img/gfy-512x.png" style="width:64px;"> | ![64x svg](img/gfy-64x.svg) |
 
 88x31
-| .png | .svg |
-| - | - |
-| ![88x31 png](img/gfy-88x31.png) | ![88x31 svg](img/gfy-88x31.svg) |
+| .png | 8x | .svg |
+| - | - | - |
+| ![88x31 png](img/gfy-88x31.png) | <img src="img/gfy-704x248.png" style="width:88px;"> | ![88x31 svg](img/gfy-88x31.svg) |
 
 80x15
-| .png | .svg |
-| - | - |
-| ![80x15 png](img/gfy-80x15.png) | ![80x15 svg](img/gfy-80x15.svg) |
+| .png | 8x | .svg |
+| - | - | - |
+| ![80x15 png](img/gfy-80x15.png) | <img src="img/gfy-640x120.png" style="width:80px;"> | ![80x15 svg](img/gfy-80x15.svg) |
 
 ***
 *This document is dedicated to the public domain.*
